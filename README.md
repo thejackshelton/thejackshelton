@@ -7,6 +7,6 @@ I'm passionate about performance, accessibility, and working on the next-gen aut
 When I'm not streaming javascript, I love biking and baseball ⚾. Happy to meet up in the Dallas area for a drink or two!
 
 You can find me on
-[𝕏](https://twitter.com/TheJackShelton), [Github](https://github.com/thejackshelton), [Discord](link)
+[𝕏](https://twitter.com/TheJackShelton), [Github](https://github.com/thejackshelton), [Discord](discordapp.com/users/235529710040252418)
 
-If you enjoy my work, consider sponsoring me on 🫶 [GitHub Sponsors](link) to keep it sustainable. I'm also available for some consulting/freelancing if you need a Qwik/Astro or Qwik UI expertise.
+If you enjoy my work, consider sponsoring me on 🫶 [GitHub Sponsors](link) to keep it sustainable. I'm also available for some consulting/freelancing if you need a Qwik, Astro, or Qwik UI expertise.
