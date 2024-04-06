@@ -9,4 +9,4 @@ When I'm not streaming javascript, I love biking and baseball ⚾. Happy to meet
 You can find me on
 [𝕏](https://twitter.com/TheJackShelton), [Github](https://github.com/thejackshelton), [Discord](https://discordapp.com/users/235529710040252418)
 
-If you enjoy my work, consider sponsoring me on 🫶 [GitHub Sponsors](link) to keep it sustainable. I'm also available for some consulting/freelancing if you need Qwik, Astro, or Qwik UI expertise.
+If you enjoy my work, consider sponsoring me on 🫶 [GitHub Sponsors](https://github.com/sponsors/thejackshelton/) to keep it sustainable. I'm also available for some consulting/freelancing if you need Qwik, Astro, or Qwik UI expertise.
