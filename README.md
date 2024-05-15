@@ -1,6 +1,6 @@
 Howdy! 👋
 
-My name's [Jack Shelton](https://jackshelton.com/) a.k.a "the Qwik Astro guy" ✌️. I'm a [Qwik UI](https://github.com/qwikifiers/qwik-ui) core team member, a design enthusiast, and the creator of the [Astro/Qwik integration](https://github.com/QwikDev/astro).
+My name's [Jack Shelton](https://jackshelton.com/) a.k.a "the Qwik Astro guy" ✌️. I'm part of the Qwik core team, a [Qwik UI](https://github.com/qwikifiers/qwik-ui) maintainer, design enthusiast, and the creator of the [Astro/Qwik integration](https://github.com/QwikDev/astro).
 
 I'm passionate about performance, accessibility, and working on the next-gen automatically optimized web. 
 
